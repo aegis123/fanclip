@@ -6,4 +6,4 @@
 ![top clip 1](images/top-clip1.png "Top")
 ![top clip 2](images/top-clip2.png "Top")
 ![top clip 3](images/top-clip3.png "Top")
-![Bottom clip](images/bottom.png "Bottom")
+![Bottom clip](images/bottomclip.png "Bottom")
