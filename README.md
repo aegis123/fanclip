@@ -1,9 +1,15 @@
 # fanclip
 
-3d model for clips connect multiple Arctic P14 PWM fans together and attach them to a T33 radiator
+3d model for clips connect multiple Arctic P14 PWM fans together and attach them to a T33 radiator.
 
+Sizes for the design can be found in in [fanclip-design.pdf](fanclip-design.pdf)
 
-![top clip 1](images/top-clip1.png "Top")
-![top clip 2](images/top-clip2.png "Top")
-![top clip 3](images/top-clip3.png "Top")
-![Bottom clip](images/bottomclip.png "Bottom")
+## Top clip
+<p float="left">
+  <img src="images/top-clip1.png" width="200" height="200" />
+  <img src="images/top-clip2.png" width="200" height="200" />
+  <img src="images/top-clip3.png" width="200" height="200" />
+</p>
+
+## Bottom clip
+<img src="images/top-clip1.png" width="200" height="200" />
