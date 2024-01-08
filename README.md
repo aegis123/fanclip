@@ -12,4 +12,4 @@ Sizes for the design can be found in in [fanclip-design.pdf](fanclip-design.pdf)
 </p>
 
 ## Bottom clip
-<img src="images/top-clip1.png" width="200" height="200" />
+<img src="images/bottomclip.png" width="200" height="200" />
